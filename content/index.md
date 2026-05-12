@@ -1,9 +1,9 @@
 ---
-title: Přísahám na můj život a svou lásku k němu že nikdy nebudu pracovat pro jiného, ani jiného nenechám pracovat pro sebe.
+title: Asi Anarcho-Objektivisticko-Kapitalistický blok
 draft: false
 ---
 ![[20260428_095831.jpg]]
 Random ahh články
 
-- [[Test]]
+- [[Kontradikce v identitě boha u abrahámovských nábožentsvých]]
 - [[Filozofie, nač nám je]]
