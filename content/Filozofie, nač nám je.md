@@ -7,7 +7,7 @@ Přitom, právě na filozofii stojí veškeré lidské vědění, a nejen to.
 ----
 
 
-Každý člověk je filozof, do stejné míry jakým je fyzikem, biologem a psychologem. Každý člověk, jelikož žije v materiální realitě musí nutně (většinou implicitně) znát zákony fyziky. Většinou zná pouze jakousi primitivní formu, nekonzistentní změť různých interpretací reality, která lehce souvisí s daným oborem. Ovšem i tak je pro něj tato znalost naprosto nezbytná, nemusí rozumět gravitaci na to aby rozuměl že věci padají, nemusí znát jak funguje energie při pálení aby věděl, jak a že si zapálí oheň, ale nutně tyto věci musí znát alespoň povrchově jako takové a její následky na objektivní realitu.
+Každý člověk je filozof, do stejné míry jakým je fyzikem, biologem a psychologem. Každý člověk, jelikož žije v realitě musí nutně (většinou implicitně) znát zákony fyziky. Většinou zná pouze jakousi primitivní formu, nekonzistentní změť různých interpretací reality, která lehce souvisí s daným oborem. Ovšem i tak je pro něj tato znalost naprosto nezbytná, nemusí rozumět gravitaci na to aby rozuměl že věci padají, nemusí znát jak funguje energie při pálení aby věděl, jak a že si zapálí oheň, ale nutně je musí znát alespoň z části, aby z nich byl schopen implikovat následky na objektivní realitu.
 
 Představte si třeba Robinsona Crusoe, muže jenž troskotal na opuštěném ostrově uprostřed oceánu. Ten poté co polonahý připlaval k neznámému ostrovu musel provést svou první akci, filozofovat. 
 

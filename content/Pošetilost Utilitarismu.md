@@ -1,4 +1,4 @@
-Utilitarismus je jednou z nejpopulárnějších teoriích etiky ve veřejném prostoru a už dlouhou dobu mě frustruje. Zde jsem napsal několik bodů, z hlavy mě napadá více kritiky, tak je možné ode mě očekávat další články na toto téma v budoucnosti.
+ Utilitarismus je jednou z nejpopulárnějších teoriích etiky ve veřejném prostoru a už dlouhou dobu mě frustruje. Zde jsem napsal několik bodů, z hlavy mě napadá více kritiky, tak je možné ode mě očekávat další články na toto téma v budoucnosti.
 
 ---
 
