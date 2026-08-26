@@ -13,12 +13,12 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
+    "docs": "./quartz/bootstrap-cli.mjs build --serve -d docs",
+    "check": "tsc --noEmit && prettier . --check",
+    "format": "prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "sync": "git add . && npx quartz sync --no-pull"
+    "sync": "git add . && ./quartz/bootstrap-cli.mjs sync --no-pull"
   },
   "engines": {
     "npm": ">=10.9.2",
