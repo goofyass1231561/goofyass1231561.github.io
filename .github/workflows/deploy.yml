@@ -4,12 +4,13 @@ on:
   push:
     branches:
       - v4
+  pull_request:
+    branches:
+      - v4
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: "pages"
@@ -18,11 +19,15 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-22.04
+    permissions:
+      contents: read
+      pages: read
     steps:
       - name: Checkout this repository
         uses: actions/checkout@v6
         with:
           repository: ${{ github.repository }}
+          persist-credentials: false
           fetch-depth: 0 # Fetch all history for git info
       - name: Setup Node
         uses: actions/setup-node@v6
@@ -34,14 +39,20 @@ jobs:
       - name: Build Quartz
         run: npm run quartz -- build
       - name: Configure GitHub Pages
+        if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v5
       - name: Upload artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v4
         with:
           path: public
 
   deploy:
     needs: build
+    if: github.event_name != 'pull_request'
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
