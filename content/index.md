@@ -8,3 +8,4 @@ Random ahh články
 - [[Kontradikce v identitě boha u abrahámovských nábožentsvých]]
 - [[Filozofie, nač nám je]]
   mnau
+.
